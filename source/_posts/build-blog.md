@@ -177,5 +177,12 @@ github page 支持自定义域名
 
 还可以可以添加第三方服务 比如：多说评论 百度统计 阅读次数统计 查询服务等。
 
+---
+
+### 其他
+
+喜欢的可以去我的 [github page 项目](https://github.com/moyunchen/moyunchen.github.io) 点个赞~ 
+
+谢谢观看~
 
 ---
