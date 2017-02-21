@@ -1,15 +1,22 @@
 ---
-title: 《mysql权威指南》学习笔记
+title: 《高性能mysql》学习笔记
 date: 2017-02-20 22:57:51
 tags:
 ---
 
-![mysql权威指南](https://img3.doubanio.com/lpic/s1371884.jpg)
+![高性能mysql](http://www.linuxidc.com/upload/2014_10/14102610033133.jpg)
 
-<center> [豆瓣地址](https://book.douban.com/subject/1232101/) </center>
+<center> [豆瓣地址](https://book.douban.com/subject/3766465/)、[百度网盘地址](https://pan.baidu.com/share/link?shareid=643049345&uk=283477&fid=1068038680260395) </center>
 
-<center> [百度网盘地址](https://pan.baidu.com/share/link?shareid=2528058465&uk=2315855741&fid=514368697164858) </center>
 
-接下来一段时间,要把mysql权威指南读一遍。
+## 前言
+
+接下来一段时间,要把高性能mysql读一遍。
 
 同时还要写学习笔记。
+
+---
+
+## 目录
+
+---
