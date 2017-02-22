@@ -1,7 +1,8 @@
 ---
 title: 生命游戏
 date: 2017-02-20 20:47:34
-tags:
+tags: 'node.js'
+categories: 'node.js开发'
 ---
 
 ## 规则

@@ -1,10 +1,11 @@
 ---
 title: 《高性能mysql》学习笔记
 date: 2017-02-20 22:57:51
-tags:
+tags: 'mysql'
+categories: '数据库优化'
 ---
 
-![高性能mysql](http://www.linuxidc.com/upload/2014_10/14102610033133.jpg)
+![高性能mysql](https://img3.doubanio.com/lpic/s4141593.jpg)
 
 <center> [豆瓣地址](https://book.douban.com/subject/3766465/)、[百度网盘地址](https://pan.baidu.com/share/link?shareid=643049345&uk=283477&fid=1068038680260395) </center>
 
