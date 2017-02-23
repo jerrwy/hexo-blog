@@ -20,4 +20,9 @@ categories: '数据库优化'
 
 ## 目录
 
+[高性能MySQL 第一章 MySQL架构与历史](http://wangxiang.net.cn/2017/02/21/mysql-notes-chapter01/)
+
+
+未完待续。。。。
+
 ---
